@@ -6,3 +6,4 @@ Yeah, this heading looks kinda small compared to the first one I say. Lets try h
 
 ### Title using header three
 True, it smaller compared to the others.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
