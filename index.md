@@ -11,8 +11,8 @@ Yeah, this heading looks kinda small compared to the first one I say. Lets try h
 print("Hello there, this is Markdown")
 ```
 #### Now to a tasklist
-- [ ]Start learning Github
-- [ ]Improve coding
+- [x]Start learning Github
+- [x]Improve coding
 - [ ]Collaborate with other programmers
 - [ ]Practice, practice, practice
 
